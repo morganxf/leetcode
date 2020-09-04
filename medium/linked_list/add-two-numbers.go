@@ -1,9 +1,4 @@
-package array
-
-type ListNode struct {
-	Val int
-	Next *ListNode
-}
+package linked_list
 
 func addTwoNumbers(l1 *ListNode, l2 *ListNode) *ListNode {
 	return AddTwoNumbers_1(l1, l2)

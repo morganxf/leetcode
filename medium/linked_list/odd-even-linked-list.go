@@ -1,4 +1,4 @@
-package array
+package linked_list
 
 func oddEvenList(head *ListNode) *ListNode {
 	return OddEvenList(head)
